@@ -25,4 +25,4 @@ Read the [END-USER LICENSE AGREEMENT][eula]
 {: height="40%" width="40%"}
 
 [gplink]:https://play.google.com/store/apps/details?id=io.github.osuronglab.posto
-[eula]:eula
+[eula]:eula/
