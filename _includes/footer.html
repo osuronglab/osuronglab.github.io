@@ -1,0 +1,40 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          	
+            {% if site.email %}
+<!--             <li><a href="mailto:{{ site.email }}">email</a></li> -->
+				<li>
+				 {% include icon-email.html emailtext="email" %}
+            {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          {% if site.github_username %}
+          <li>
+            {% include icon-github.html githubtext="github" %}
+          </li>
+          {% endif %}
+          
+          {% if site.googleplay_username %}
+          <li>
+          	{% include icon-store.html gpid="google play" %}
+          	</li>
+          	{% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>{{ site.description | escape }}</p>
+      </div>
+    </div>
+
+  </div>
+
+</footer>
