@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /nursery/posto/eula
+permalink: /nursery/posto/eula/
 ---
 Posto End-User License Agreement
 
