@@ -18,7 +18,7 @@ email: osuronglab@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   The official website of Osuronglab
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://osuronglab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: osuronglab
 github_username:  osuronglab
 googleplay_username: osuronglab
