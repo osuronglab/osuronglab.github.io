@@ -10,7 +10,7 @@ To get into their website and using the clunky online calculator was unappealing
 
 Hence, Posto.
 
-Read the [END-USER LICENSE AGREEMENT][eula]
+Read the [END-USER LICENSE AGREEMENT][eula] or the [PRIVACY POLICY][privacy] of using Posto
 
 [![gpbadge]][gplink]
 
@@ -26,3 +26,4 @@ Read the [END-USER LICENSE AGREEMENT][eula]
 
 [gplink]:https://play.google.com/store/apps/details?id=io.github.osuronglab.posto
 [eula]:eula/
+[privacy]:privacypolicy/
